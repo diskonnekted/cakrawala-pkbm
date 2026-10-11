@@ -27,6 +27,10 @@ yarn-error.log*
 dev.log
 dev.err
 
+# deploy artifacts
+deploy/pkbm.tar
+deploy/*.tar
+
 # local env files
 .env*.local
 
